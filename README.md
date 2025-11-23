@@ -20,3 +20,8 @@ The programming language used is Python v3.13.5 with libraries [pandas](https://
 The model is trained from [Pima Indians Diabetes Database available on kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).<br>
 
 Predictions are made based on `Number of Pregnancies`, `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, `BMI`, `DiabetesPedigreeFunction` and `Age`.
+
+# Running the program
+- Requires Python >= v3.13.5
+- Install libraries mentioned in requirements.txt file
+- Run main.py
